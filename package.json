@@ -1,0 +1,20 @@
+{
+  "name": "zhuangxiaoyan",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.9.7",
+    "vuepress-theme-reco": "^1.6.13"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "dependencies": {
+    "vuepress-theme-vue": "^1.1.1"
+  },
+  "description": "zhuangxiaoyan is a every man",
+  "repository": "https://gitee.com/xjl2462612540/SeniorArchitect.git",
+  "author": "zhuangxiaoyan <18279148786@163.com>"
+}
