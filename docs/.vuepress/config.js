@@ -1,15 +1,9 @@
 module.exports = {
     // site config
     lang: 'en-US',
-    title: '庄小焱——努力成长为一名优秀的架构师',
-    description: '庄小焱的博客',
+    title: '庄小焱博客',
+    description: '庄小焱——努力成长为一名优秀的架构师',
     base: '/SeniorArchitect/',
-    markdown: {
-        lineNumbers: true,
-            externalLinks: {
-            target: '_blank', rel: 'noopener noreferrer'
-        }
-    },
     theme: 'reco',
     themeConfig: {
         themeConfig: {
