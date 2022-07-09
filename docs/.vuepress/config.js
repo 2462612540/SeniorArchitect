@@ -25,11 +25,11 @@ module.exports = {
             {text: '常用开发工具', link: '/tools/', icon: 'icon-distributed'},
             {text: '系统架构设计', link: '/architecture_design/', icon: 'icon-interview'},
             {text: '系统设计解决方案', link: '/system_solutions/', icon: 'icon-interview'},
-            {text: '计算机视觉', link: '', icon: 'icon-interview'},
-            {text: '项目实战', link: '', icon: 'icon-interview'},
-            {text: '项目管理', link: '', icon: 'icon-interview'},
-            {text: '产品研究', link: '', icon: 'icon-interview'},
-            {text: '大厂面试问题', link: '', icon: 'icon-interview'},
+            {text: '计算机视觉', link: '/computer_version/', icon: 'icon-interview'},
+            {text: '项目实战', link: '/project/', icon: 'icon-interview'},
+            {text: '项目管理', link: '/project_management/', icon: 'icon-interview'},
+            {text: '产品研究', link: '/production/', icon: 'icon-interview'},
+            {text: '大厂面试问题', link: '/interview/', icon: 'icon-interview'},
         ],
         sidebar: [
             {
