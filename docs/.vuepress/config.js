@@ -2,8 +2,14 @@ module.exports = {
     // site config
     lang: 'en-US',
     title: '庄小焱——努力成长为一名优秀的架构师',
-    description: '庄小焱',
+    description: '庄小焱的博客',
     base: '/SeniorArchitect/',
+    markdown: {
+        lineNumbers: true,
+            externalLinks: {
+            target: '_blank', rel: 'noopener noreferrer'
+        }
+    },
     theme: 'reco',
     themeConfig: {
         themeConfig: {
@@ -18,9 +24,8 @@ module.exports = {
         },
         nav: [
             {text: '资源导航', link: '/resources/', icon: 'icon-java'},
-            {text: '个人简历', link: 'https://2462612540.github.io/SeniorArchitect', icon: 'icon-tree'},
-            {text: '社区网址', link: '/backend/', icon: 'icon-design'},
-            {text: '个人博客', link: '/backend/', icon: 'icon-design'},
+            {text: '个人简历', link: '/algorithm/', icon: 'icon-tree'},
+            {text: '开源社区网址', link: '/backend/', icon: 'icon-design'},
         ],
         sidebar: [
             {
