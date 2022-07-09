@@ -25,7 +25,7 @@ module.exports = {
         sidebar: [
             {
                 title: "博客专栏介绍",
-                path: '/',
+                path: '/README.md',
                 collapsable: true // 不折叠
             },
 
