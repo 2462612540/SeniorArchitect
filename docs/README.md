@@ -6,12 +6,14 @@
 
 <mark>**整理不易，还望各位看官点一个攒和收藏一下:heart::heart::heart:**</mark>
 
-![Image text](./images/zhaungxiaoyan.jpg)
+![img.png](https://gitee.com/xjl2462612540/SeniorArchitect/blob/master/1-Xmind/001.jpg)
 
 -----------------------------------------------------------------------------------------------
 
 # 个人社区账号
 
+> [庄小焱的bolg](https://github.com/2462612540)
+> 
 > [庄小焱的github](https://github.com/2462612540)
 >
 > [庄小焱的gitee](https://gitee.com/xjl2462612540)
@@ -20,7 +22,6 @@
 >
 > [庄小焱的雀语](https://www.yuque.com/dashboard/my_books)
 >
-> [庄小焱的github网站](https://github.com/2462612540)
 
 # 资源导航
 
