@@ -1,5 +1,5 @@
 {
-  "name": "zhuangxiaoyan",
+  "name": "庄小焱",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -14,7 +14,7 @@
   "dependencies": {
     "vuepress-theme-vue": "^1.1.1"
   },
-  "description": "zhuangxiaoyan is a every man",
+  "description": "zhuangxiaoyan",
   "repository": "https://github.com/2462612540/SeniorArchitect.git",
   "author": "zhuangxiaoyan <18279148786@163.com>"
 }
