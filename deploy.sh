@@ -13,7 +13,7 @@ cd docs/.vuepress/dist
 
 git init
 git add -A
-git commit -m 'feat(seniorarchitecture) [xjl0073] init repo and creat blog'
+git commit -m 'feat(seniorarchitecture) [xjl000] create blog html'
 
 # 如果发布到 https://<USERNAME>.github.io/<REPO>
 git push -f https://2462612540.github.io/SeniorArchitect.git master:blog
@@ -23,6 +23,6 @@ cd -
 
 git init
 git add -A
-git commit -m 'feat(seniorarchitecture) [xjl0073] init repo and creat blog'
+git commit -m 'feat(seniorarchitecture) [xjl000] create blog html'
 git push -f https://gitee.com/xjl2462612540/SeniorArchitect.git master:master
 git push -f https://github.com/2462612540/SeniorArchitect.git master:master
