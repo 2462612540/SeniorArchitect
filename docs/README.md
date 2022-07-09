@@ -1,18 +1,20 @@
+---
+sidebar: auto
+---
+
 # <h1 align="center">《庄小焱——努力成长为一名优秀的架构师》</h1>
 
 > 我是庄小焱。任职于世界100强的软件研发中心，高级软件开发工程师，CSDN博文专家。
 > 博主在系统架构、容器化技术、大数据、机器学习领域不断学习，同时我将在博客中持续不断分享自己的学习知识和相关技术，
 > 欢迎大家和我交流学习，欢迎大家关注我的博客。
 
-<mark>**整理不易，还望各位看官点一个攒和收藏一下:heart::heart::heart:**</mark>
-
-![img.png](https://gitee.com/xjl2462612540/SeniorArchitect/blob/master/1-Xmind/001.jpg)
+<h2 align=center>[![jrVPiQ.jpg](https://s1.ax1x.com/2022/07/09/jrVPiQ.jpg)](https://imgtu.com/i/jrVPiQ)
 
 -----------------------------------------------------------------------------------------------
 
 # 个人社区账号
 
-> [庄小焱的bolg](https://github.com/2462612540)
+> [庄小焱的bolg](https://2462612540.github.io/SeniorArchitect/)
 > 
 > [庄小焱的github](https://github.com/2462612540)
 >
@@ -21,7 +23,7 @@
 > [庄小焱的CSDN](https://blog.csdn.net/weixin_41605937?type=blog)
 >
 > [庄小焱的雀语](https://www.yuque.com/dashboard/my_books)
->
+
 
 # 资源导航
 
