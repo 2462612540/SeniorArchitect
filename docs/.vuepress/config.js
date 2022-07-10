@@ -1,7 +1,7 @@
 module.exports = {
     // site config
     lang: 'en-US',
-    title: '庄小焱——努力成长为一名优秀的架构师',
+    title: '庄小焱的博客',
     description: '庄小焱的博客',
     base: '/SeniorArchitect/',
     theme: 'reco',
