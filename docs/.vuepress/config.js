@@ -1,7 +1,7 @@
 module.exports = {
     // site config
     lang: 'en-US',
-    title: '庄小焱——努力成长为一名优秀的架构师',
+    title: '庄小焱的博客',
     description: '庄小焱的博客',
     base: '/SeniorArchitect/',
     theme: 'reco',
@@ -18,8 +18,18 @@ module.exports = {
         },
         nav: [
             {text: '资源导航', link: '/resources/', icon: 'icon-java'},
-            {text: '个人简历', link: '/algorithm/', icon: 'icon-tree'},
-            {text: '个人开源社区', link: '/backend/', icon: 'icon-design'},
+            {text: '数据结构与算法', link: '/algorithm/', icon: 'icon-tree'},
+            {text: '软件后端开发', link: '/backend/', icon: 'icon-design'},
+            {text: '前端技术', link: '/frontend/', icon: 'icon-ic_datastores'},
+            {text: '大数据与云计算', link: '/bigdata/', icon: 'icon-framework1'},
+            {text: '常用开发工具', link: '/tools/', icon: 'icon-distributed'},
+            {text: '系统架构设计', link: '/architecture_design/', icon: 'icon-interview'},
+            {text: '系统设计解决方案', link: '/system_solutions/', icon: 'icon-interview'},
+            {text: '计算机视觉', link: '/computer_version/', icon: 'icon-interview'},
+            {text: '项目实战', link: '/project/', icon: 'icon-interview'},
+            {text: '项目管理', link: '/project_management/', icon: 'icon-interview'},
+            {text: '产品研究', link: '/production/', icon: 'icon-interview'},
+            {text: '大厂面试问题', link: '/interview/', icon: 'icon-interview'},
         ],
         sidebar: [
             {
