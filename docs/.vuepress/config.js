@@ -18,8 +18,17 @@ module.exports = {
         },
         nav: [
             {text: '资源导航', link: '/resources/', icon: 'icon-java'},
-            {text: '个人简历', link: '/algorithm/', icon: 'icon-tree'},
-            {text: '个人社区', link: '/backend/', icon: 'icon-design'},
+            {text: '个人简历', link: '/cv/', icon: 'icon-tree'},
+            {
+                text: '个人社区',
+                items: [
+                    { text: '个人博客', link: 'https://2462612540.github.io/SeniorArchitect/' },
+                    { text: '庄小焱-github', link: 'https://github.com/2462612540' },
+                    { text: '庄小焱-gitee', link: 'https://gitee.com/xjl2462612540' },
+                    { text: '庄小焱-CSDN', link: 'https://blog.csdn.net/weixin_41605937?type=blog'},
+                    { text: '庄小焱-雀语', link: 'https://www.yuque.com/zhuangxiaoyan'}
+                ]
+            }
         ],
         sidebar: [
             {
