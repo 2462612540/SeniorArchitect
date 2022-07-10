@@ -1,6 +1,4 @@
 ---
-home: true
----
 
 # <h1 align="center">《庄小焱——努力成长为一名优秀的架构师》</h1>
 
@@ -195,6 +193,6 @@ home: true
 > 本项目所有内容来源于个人总结而形成。同时大部分内容是学习互联网上的相关知识和翻阅相关书籍原著获得，所以在一些知识的理解上可能存在错误，
 > 肯请各位大佬及时指出。另外项目中部分图像是直接引用而来，如果涉及到相关的版权问题，请及时联系我,我的邮箱是：18279148786@163.com,博主将立即修正。
 
-::: slot footer
-MIT Licensed | Copyright © 2018-present [庄小焱](https://blog.csdn.net/weixin_41605937?type=blog)
-:::
+
+footer: MIT Licensed | Copyright © 2022-present 庄小焱
+---
