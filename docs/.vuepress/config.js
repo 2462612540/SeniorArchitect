@@ -7,6 +7,7 @@ module.exports = {
     theme: 'reco',
     themeConfig: {
         themeConfig: {
+            logo: '/logo.jpg',
             subSidebar: 'auto'
         },
         vssueConfig: {
